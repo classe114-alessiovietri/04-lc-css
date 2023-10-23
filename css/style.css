@@ -5,9 +5,49 @@ img {
 }
 
 #secondo-div {
-    /* SERIE DI REGOLE DA APPLICARE AL SECONDO DIV */
+    font-size: 2.5em;
 }
 
 #terzo-div {
-    /* SERIE DI REGOLE DA APPLICARE AL SECONDO DIV */
+    /* background-color: rgb(0, 0, 255);
+    background-color: #0000ff; */
+    /* 0 1 2 3 4 5 6 7 8 9 a b c d e f */
+    /* background-color: rgba(0, 0, 255, 0.5); */
+    background-color: #0000ff80;
+}
+
+.lightcoral {
+    color: lightcoral;
+}
+
+.sottolineato {
+    /* STILE PER SOTTOLINEARE */
+}
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span {
+    background-color: aquamarine;
+}
+
+.test-centratura {
+    text-align: center;
+}
+
+#div-speciale {
+    width: 600px;
+    height: 100%;
+    background-color: lightcoral;
+    background-image: url('../img/gatto.jpg');
+    background-size: 50% 85%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
